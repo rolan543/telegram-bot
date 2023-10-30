@@ -11,5 +11,6 @@ TgKey = '6819872169:AAF6kGp87bmp0jiaUL1MVW2anNz7lDwjTnM' вот это надо 
 openai.api_key = OpenAiKey
 bot = telebot.TeleBot(TgKey) это пример билиотеки Telebot и OpenAi,но вместо этого у вас должны стоят свои ключи.
 После этого у вас должен запустится бот в телеграме которому вы можете задавать любые вопросы.
+Надо устоновить билиотеке Install Telebot b Install OpenAi
 
 
